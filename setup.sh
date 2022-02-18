@@ -16,13 +16,13 @@ apt update
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 
 # Install from Repo
-apt install zsh
+apt install zsh -y
 apt install code -y
 apt install htop -y
 apt install gnome-tweak-tool -y
 apt install gparted -y
 apt install simplescreenrecorder -y
-apt install signal-desktop
+apt install signal-desktop -y
 apt install mpv -y
 apt install telegram-desktop -y
 apt install timeshift -y
@@ -35,7 +35,6 @@ apt install discord -y #
 apt install gnome-shell-extensions -y
 apt install wireguard-tools
 apt install delue-gtk deluge -y
-apt install gnome-shell-
 apt install gnome-clocks -y
 apt install gnome-shell-extensions-gpaste -y
 apt install kodi-inputstream-adaptive -y
