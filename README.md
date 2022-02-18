@@ -10,7 +10,7 @@ git clone https://github.com/actuallyaryaman/pop_setup.git && cd pop_setup
 Execute following command:
 
 ```sh
- curl -l 
+curl -l https://raw.githubusercontent.com/actuallyaryaman/pop_setup/main/bashrc.patch >> ~/.bashrc 
 ```
 ## Running the setup script:
 Make the setup script executable:
