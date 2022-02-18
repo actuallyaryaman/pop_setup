@@ -38,8 +38,7 @@ apt install delue-gtk deluge -y
 apt install gnome-shell-
 apt install gnome-clocks -y
 apt install gnome-shell-extensions-gpaste -y
-apt install kodi-inputstream-adaptive
-
+apt install kodi-inputstream-adaptive -y
 # Install DEB files
 dpkg -i google-chrome-stable_current_amd64.deb
  
