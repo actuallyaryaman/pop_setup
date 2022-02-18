@@ -10,8 +10,17 @@ git clone https://github.com/actuallyaryaman/pop_setup.git && cd pop_setup
 Execute following command:
 
 ```sh
-$ curl -l 
+ curl -l 
+```
+## Running the setup script:
+Make the setup script executable:
+
+```sh
+chmod a+x setup.sh
 ```
 
+Run the script:
 
-
+```sh
+sudo ./setup.sh
+```
