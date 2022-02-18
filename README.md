@@ -14,7 +14,7 @@ curl -l https://raw.githubusercontent.com/actuallyaryaman/pop_setup/main/bashrc.
 ```
 For zsh:
 ```sh
-curl -l https://raw.githubusercontent.com/actuallyaryaman/pop_setup/main/bashrc.patch >> ~/.zsh.rc
+curl -l https://raw.githubusercontent.com/actuallyaryaman/pop_setup/main/bashrc.patch >> ~/.zshrc
 ```
 
 ## Running the setup script:
