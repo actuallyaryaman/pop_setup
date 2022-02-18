@@ -54,11 +54,11 @@ pip install websocket-client #(or pip3)
  
 #perform a system upgrade
 
-apt upgrade
+apt upgrade -y
 
 #remove any un-needed packages
 
-apt autoremove
+apt autoremove -y
 
 # Final message
 echo Malware has been installed, uploading your nudes in t-minus 2s.
