@@ -2,4 +2,4 @@
 # apt aliases (package management)
 alias in="sudo apt install"
 alias upg="sudo apt update && sudo apt upgrade"
-alias purge="sudo apt aurotemove --purge"
+alias purge="sudo apt autoremove --purge"
