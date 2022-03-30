@@ -1,4 +1,4 @@
-# pop_setup
+# pop_setup_PLASMA
 pop_os! initial setup scripts for people who want PLASMA DESKTOP ENVIRONMENT
 
 # Clone repository
