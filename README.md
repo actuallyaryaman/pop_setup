@@ -17,8 +17,8 @@ For zsh:
 curl -l https://raw.githubusercontent.com/actuallyaryaman/pop_setup/main/bashrc.patch >> ~/.zshrc
 ```
 install oh-my-zsh(optional):
-```sh
--c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" 
+```
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" 
 ```
 
 ## Running the setup script:
