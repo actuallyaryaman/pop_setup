@@ -7,14 +7,17 @@ Execute the following command:
 git clone https://github.com/actuallyaryaman/pop_setup.git && cd pop_setup
 ```
 ## Update .bashrc
-Execute following command:
-For bash:
+Execute following command to add the allias for popular apt commands:
+For bash(recommended):
 ```sh
 curl -l https://raw.githubusercontent.com/actuallyaryaman/pop_setup/main/bashrc.patch >> ~/.bashrc 
 ```
 For zsh:
 ```sh
 curl -l https://raw.githubusercontent.com/actuallyaryaman/pop_setup/main/bashrc.patch >> ~/.zshrc
+```
+install oh-my-zsh(optional):
+```sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
 ## Running the setup script:
